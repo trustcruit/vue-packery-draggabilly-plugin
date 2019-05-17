@@ -25,6 +25,6 @@
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-minify": "^0.5.0",
-    "draggabilly": "^2.2.0"
+    "draggabilly": "github:trustcruit/draggabilly-scrollabilly"
   }
 }
